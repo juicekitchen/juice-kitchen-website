@@ -22,7 +22,7 @@ const menuCategories: MenuCategory[] = [
       { name: "Green Waves Smoothie", price: "$12.50", description: "Apple juice, spinach, kale, green apple, kiwi, cucumber & spirulina" },
       { name: "Vitamin Sea Smoothie", price: "$12.50", description: "Orange juice, lemon juice, camu-camu, strawberry, mango & banana" },
       { name: "Strawberry Smoothie", price: "$12.50", description: "Almond milk, banana & strawberry" },
-      { name: "Sun Seeker Smoothie", price: "$12.50", description: "Almond milk, peanut butter, dates, coconut flakes, cinnamon, oats, maca root & banana" },
+      { name: "Sun Seeker Smoothie", price: "$12.50", description: "Almond milk, peanut butter, dates, coconut flakes, cinnamon, oats, macarons & banana" },
       { name: "Chocolate PB", price: "$12.50", description: "Almond milk, peanut butter, cacao powder & banana" },
       { name: "PB&J", price: "$12.50", description: "Almond milk, peanut butter, strawberry & blueberry" },
       { name: "Berry Breeze Smoothie", price: "$12.50", description: "Almond milk, blueberry, strawberry, acai powder & banana" },
