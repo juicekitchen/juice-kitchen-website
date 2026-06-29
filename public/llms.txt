@@ -1,0 +1,23 @@
+# Juice Kitchen
+
+> Juice Kitchen is a family-owned juice café in Coral Springs, FL, serving organic smoothies, açaí bowls, fresh-pressed juices, specialty coffee, and toasts, all made fresh to order for pickup or delivery.
+
+Juice Kitchen is a neighborhood café in Coral Springs, Florida. Everything is made fresh to order with organic ingredients. The menu covers smoothies, açaí and pitaya bowls, cold-pressed juices, coffee (espresso, cold brew, and chagaccino), toasts, and light bites. Online ordering is available for pickup and local delivery.
+
+## Main pages
+
+- [Home](https://juicekitchencafe.com/): Overview of Juice Kitchen, featured items, and quick links to order.
+- [Menu](https://juicekitchencafe.com/#menu): Full menu of smoothies, açaí bowls, juices, coffee, and toasts.
+- [Order Online](https://juicekitchencafe.com/#order): Place a pickup or delivery order.
+- [About](https://juicekitchencafe.com/#about): The family-owned story behind the café.
+- [Location](https://juicekitchencafe.com/#location): Location, hours, phone, and directions.
+
+## Location and hours
+
+- Name: Juice Kitchen
+- Address: 4352 N State Rd 7, Coral Springs, FL 33067
+- Phone: 954-509-2024
+- Hours: Monday-Sunday 9AM-5PM
+- Ordering: Pickup and local delivery available online
+
+
