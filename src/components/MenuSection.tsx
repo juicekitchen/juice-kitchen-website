@@ -174,6 +174,9 @@ const MenuSection = () => {
           <p className="mt-4 text-muted-foreground max-w-lg mx-auto">
             Everything crafted with the finest organic ingredients, made fresh to order.
           </p>
+          <p className="mt-2 text-sm text-muted-foreground">
+            A 3% credit card processing fee is added to orders paid by credit card.
+          </p>
         </div>
 
         {/* Category tabs */}
